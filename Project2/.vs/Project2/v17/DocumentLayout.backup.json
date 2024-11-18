@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projectnhom\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4EE88C-C4DE-44A5-A876-8CAAE637B7D8}|Project2\\Project2.vcxproj|E:\\projectnhom\\Project2\\Project2\\dilation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB4EE88C-C4DE-44A5-A876-8CAAE637B7D8}|Project2\\Project2.vcxproj|solutionrelative:Project2\\dilation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dilation.cpp",
+              "DocumentMoniker": "E:\\projectnhom\\Project2\\Project2\\dilation.cpp",
+              "RelativeDocumentMoniker": "Project2\\dilation.cpp",
+              "ToolTip": "E:\\projectnhom\\Project2\\Project2\\dilation.cpp",
+              "RelativeToolTip": "Project2\\dilation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T05:07:59.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
